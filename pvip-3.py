@@ -130,8 +130,8 @@ def banner():
 	sol()
 	ban=''' © Brute forse Facebook account
 ███████ ██     ██ ███████ ██   ██ ©
-   ███  ██     ██ ██       ██ ██                   Author : NAZIR 
-  ███   ██  █  ██ █████     ███              Status: FREE
+   ███  ██     ██ ██       ██ ██                   Author : Ali 
+  ███   ██  █  ██ █████     ███              Status: PENGATURAN-IDZ
  ███    ██ ███ ██ ██       ██ ██  
 ███████  ███ ███  ███████ ██   ██ '''
 	cetak(nel(ban, style='blue'))
